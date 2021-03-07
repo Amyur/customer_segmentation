@@ -1,4 +1,4 @@
-# Exploratory Data Analysis
+# Customer segmentation
 
 The idea of this app is to interact with a model built to segment costumer data.
 
