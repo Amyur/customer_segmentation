@@ -10,10 +10,13 @@ import seaborn as sns
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
+st.write("""
+# Segmentación de clientes usando Unsupervised Learning
+""")
+
 st.write("Autor: Amylkar Urrea Montoya. email: amylkar.urrea@udea.edu.co. [Linkedin](https://www.linkedin.com/in/amylkar-urrea-montoya-baab48196/)")
 
 st.write("""
-# Segmentación de clientes usando Unsupervised Learning
 El conjunto de datos hace referencia al gasto realizado a lo largo de un año por los clientes de un distribuidor mayorista.
 El gasto se encuentra en unidades monetarias (m.u.) para diversas categorías de productos, como lo son:
 refrescos, lacteos, comestibles, congelados, alimentos especializados, detergentes y productos de papel.
